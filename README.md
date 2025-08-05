@@ -335,3 +335,6 @@ Utilisez la commande `+logs` pour créer automatiquement :
 - **Informations détaillées** (utilisateur, raison, timestamp)
 - **Thumbnails** des utilisateurs concernés
 - **Historique complet** de toutes les actions 
+
+## 📜 License
+This project is under MIT License. See the `LICENSE` file for more details.
